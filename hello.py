@@ -6,11 +6,11 @@ run....WELCOME"""
 print("My first code in python")
 
 #different datatypes
-a = 'John Samuel' #string (str)
+a = 'valentine jepchirchir' #string (str)
 
 print("My name is " + a )
-b = age = 21 #integer(int)
-c = wight = 60.5 #float 
+b = age = 20 #integer(int)
+c = wight = 55.5 #float 
 y = True #boolean
 
 z = {"apple","banana","cherry"}#set
