@@ -1,5 +1,6 @@
 #python operators
 ###ARITHMETIC OPERATORS###
+print("Arithmetic operators")
 """The program show show how to use different operators 
 They include:
 addition +
@@ -33,6 +34,7 @@ print(a%b)
 
 ###RELATIONAL OPERATORS###
 #they compare the values and return true or false
+print("Relational operators")
 """They are:
 greater than >
 less than <
@@ -65,6 +67,67 @@ print(x>=z)
 #less than or equal to
 print(x<=y)
 print(x<=z)
+
+#LOGIC OPERATORS
+print("Logical operators")
+"""They include
+and 
+or 
+not"""
+k = 5
+j = 4
+l = 5
+
+#and
+print(j and j)
+print(k and l)
+
+#or
+print(k or j)
+print(k or l)
+
+
+#not
+print(k or j)
+print(k or l)
+
+#BITWISE OPERATORS
+print("Bitwise operators")
+"""They include:
+AND &
+OR |
+NOT ~
+XOR ^ 
+right shift >>
+left shit >>
+"""
+m = 7
+n = 6
+
+#and
+print(m & m)
+print(m & n)
+
+#or
+print(m | m)
+print(m | n)
+
+#not 
+# print(m ~ m)
+# print(m ~ n)
+
+#xor
+print(m ^ m)
+print(m ^ n)
+
+#right shift
+print(m >> m)
+print(m >> n)
+
+#left shift
+print(m << m)
+print(m << n)
+
 
 
 

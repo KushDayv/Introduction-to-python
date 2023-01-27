@@ -21,6 +21,12 @@ print(z)
 
 print(complex(b))#type of number
 
+print(type(b))
+print(type(y))
+print(type(c))
+print(type(z))
+
+
 
 
 
