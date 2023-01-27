@@ -6,7 +6,7 @@ run....WELCOME"""
 print("My first code in python")
 
 #different datatypes
-a = 'valentine jepchirchir' #string (str)
+a = 'John Samuel' #string (str)
 
 print("My name is " + a )
 b = age = 20 #integer(int)
@@ -20,6 +20,10 @@ print(c)
 print(z)
 
 print(complex(b))#type of number
+
+
+
+
 
 
 
