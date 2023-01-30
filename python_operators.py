@@ -1,4 +1,14 @@
 #python operators
+"""types of operators include
+1.Arithmetic operators
+2.Assignment operators
+3.Comparison operators
+4.Logical operators
+5.Relational operators
+6.Identity operators
+7.Bitwise operators
+8.Membership operators
+"""
 ###ARITHMETIC OPERATORS###
 print("Arithmetic operators")
 """The program show show how to use different operators 
