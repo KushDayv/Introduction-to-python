@@ -5,8 +5,7 @@ hours_worked = int(input("Enter the hours worked:"))
 rate_per_hour = int(input("Enter the rate worked:"))
 gross_pay = hours_worked * rate_per_hour
 
+#displaying the gross pay
 print("Your gross pay is:", gross_pay)
-
-
 
 
