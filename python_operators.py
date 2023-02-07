@@ -42,7 +42,7 @@ print(a//b)
 print("Modulus of a number",a%b)
 
 """ A program that test the divisibility test and whether the number is even"""
-
+#To test whether the number is even or odd
 print("To check whether the number is even or not")
 a = int(input("Enter any number:"))
 
