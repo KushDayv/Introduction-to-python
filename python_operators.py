@@ -55,6 +55,7 @@ else:
 #to check whether the same entered number is divisible by 5
 print("To check the divisibility test")
 
+
 if (a%5 == 0):
     print("The number is divisible by 5")
 else:
