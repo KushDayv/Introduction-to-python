@@ -12,6 +12,8 @@ herself.This is done in the programs :area.py, volume.py and gross_pay.py
 
 python operators
 *added arithmetic operators (+,-,*,/,//,%)
+
+
 *added relational operators (>,<,==,!=,>=,<=)
 
 python decision making
