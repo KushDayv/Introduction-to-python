@@ -1,4 +1,4 @@
-
+#This is a simple python game.
 from numpy import random
 
 winning_number = random.randint(0,50)
