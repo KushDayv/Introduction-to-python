@@ -13,7 +13,7 @@ t = time in years
 from math import pow
 
 Principal = int(input("Enter the Principal amount : "))
-rate = int(input("Enter the rate per year as a percentage : % "))
+rate = int(input("Enter the rate per year as a percentage % : "))
 no = float(input("Enter the number of times the intrest is compunded : "))
 time = int(input("Enter the time total time in years : "))
 
