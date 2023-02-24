@@ -1,4 +1,4 @@
-# Python made easy
+### Python made easy
 Intro to python
 
 This is a brief intro to python
@@ -7,25 +7,31 @@ This is a brief intro to python
 
 Variable declaration and initalization
 
-*illustrated how we declare and assign variables.Also illustrated how we allow a user to input the varaibles by him or 
+1.illustrated how we declare and assign variables.Also illustrated how we allow a user to input the varaibles by him or 
 herself.This is done in the programs :area.py, volume.py and gross_pay.py
 
-python operators
-*added arithmetic operators (+,-,*,/,//,%)
+2.python operators
+  a) added arithmetic operators (+,-,*,/,//,%)
 
 
-*added relational operators (>,<,==,!=,>=,<=)
+  b) added relational operators (>,<,==,!=,>=,<=)
 
-python decision making
-*some illustrations of the various decision making statements that are used.
+3.python decision making
+  c) some illustrations of the various decision making statements that are used.
 
-**The statements used are 
 
---if statements
+The statements used are 
 
---if .....else statements
-***if ...elif statements
-**addition of input validation to check whether the user has entered negative values or marks that are above 100%
+  i) if statements
 
-**there is a simple python game that shows the use of python libraries
+  ii) if .....else statements
+  iii)if ...elif statements
+
+*addition of input validation to check whether the user has entered negative values or marks that are above 100%
+
+*there is a simple python game that shows the use of python libraries
+
+4.Python functinos 
+
+*In the functions folder there are programs that show how functions in python are defined and how they are declared.
 
