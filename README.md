@@ -1,7 +1,7 @@
 ### Python made easy
 Intro to python
 
-This is a brief intro to python
+This is will help all the new beginners who are intrested in python programming
 
 
 
