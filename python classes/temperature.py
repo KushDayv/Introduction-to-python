@@ -11,10 +11,10 @@ class Temperature:
         self.fahrenheit = fahrenheit
 
     def convert_fahrenheit(self):
-        return (celsius * (9/5)) + 32
+        return (self.celsius * (9/5)) + 32
     
     def convert_celsius(self):
-        return (fahrenheit - 32) * (5/9)
+        return (self.fahrenheit - 32) * (5/9)
     
 temp = Temperature(celsius,fahrenheit)
 
