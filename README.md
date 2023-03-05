@@ -39,3 +39,12 @@ The statements used are
 
 *In the functions folder there are programs that show how functions in python are defined and how they are declared.
 
+5.Python Classes and objects
+
+*There's a well illustration of how to declare classes with methods and their objects in the folder named Python Classes
+
+  **Classes are defined using the key word Class <class_name>:
+  
+  **The __init__ funtion follows and this is where one should pass the attributes you wand to use. The function is always there by default even if one fails to define it. The purpose of this function is to help one to initialize the variables that they are going to use.
+  
+  **when calling the fucntion one should pass the arguments that they declare in the __init__ function.
