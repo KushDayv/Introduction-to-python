@@ -47,6 +47,12 @@ The statements used are
   
   **The __init__ funtion follows and this is where one should pass the attributes you want to use. The function is always there by default even if one fails to define it. The purpose of this function is to help one to initialize the variables that they are going to use.
   
-  **When calling the fucntion one should pass the arguments that they declare in the __init__ function.
+  **When initailizing the variables in the __init__ function , there must be the self keyword which is used to pass the parameters of the attributes that one initializes. This is done in the __init__function.
+  
+  **When defining the other methods, the self keyword is used to refer to the values that are to be initialized in the particular function, hence there is no need to 
+  initialize the variables again.
+  
+  **When calling the function one should pass the arguments that they declare in the __init__ function.
 
   **The object name is normally any name the user decides to use then assign it to the class name followed by the attributes/ the variables that one initialized at the start of the program.
+  
