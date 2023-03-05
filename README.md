@@ -45,7 +45,7 @@ The statements used are
 
   **Classes are defined using the key word Class <class_name>:
   
-  **The __init__ funtion follows and this is where one should pass the attributes you wand to use. The function is always there by default even if one fails to define it. The purpose of this function is to help one to initialize the variables that they are going to use.
+  **The __init__ funtion follows and this is where one should pass the attributes you want to use. The function is always there by default even if one fails to define it. The purpose of this function is to help one to initialize the variables that they are going to use.
   
   **When calling the fucntion one should pass the arguments that they declare in the __init__ function.
 
