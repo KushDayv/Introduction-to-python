@@ -52,4 +52,3 @@ print("This is the amount you have requested to withdraw Kshs : ", bank.withdraw
 print("Your current balance is Kshs : ", bank.check_balance())
 print("Here are the customer details (name,account_no,opening_date) : ", bank.customer_details())
 
-
