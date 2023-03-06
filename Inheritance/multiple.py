@@ -10,7 +10,7 @@ engine = input("Enter the engine size of the vehicle : ")
 
 
 class Car:
-    def __init__(self,model,color,engine):
+    def __init__(self,name,model,color,engine):
         self.model = model
         self.color = color
         self.engine = engine
@@ -26,6 +26,6 @@ class Institution(Car,Owner):
     def zetech(self):
         return (model,color,engine)
     
-F = Institution()
-print("The Car Details are : ",F.zetech())   
+F = Institution(name,model,color,engine)
+print("The Car Details are (model,color,engine) : ",F.zetech())   
 print("The car belongs to : ",F.person())
