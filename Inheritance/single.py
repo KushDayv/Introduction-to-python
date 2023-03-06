@@ -1,8 +1,4 @@
 """
-///use of the base, super class, parent class- this is the class from which another class takes 
-attributes from
-///the child, sub class, derived 
-
 Data abstraction - data hiding
 Encapsulation - wrapping of data
 Polymophism - taking many forms
