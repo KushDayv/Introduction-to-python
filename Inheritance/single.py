@@ -6,7 +6,7 @@ Polymophism - taking many forms
 #A program to show single inheritance in python
 
 class Animal:
-    def legs(self):
+    def legs(self): 
         print("I have four legs")
 
     def fur(self):
