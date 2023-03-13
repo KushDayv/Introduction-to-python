@@ -60,10 +60,10 @@ C = Commission_Employee(commission_rate,total_sales,commission_allowance)
 H = Hourly_Employee(hourly,hours,hourly_allowance)
 
 
-print("If user was a Salaried employee he earns kshs: ", S.salarypay(salary_allowance,monthly_pay))
+print(f"If {name} was a Salaried employee he earns kshs: ", S.salarypay(salary_allowance,monthly_pay))
 
-print("If user was a Commissioned employee he earns kshs: ", C.commissionpay(commission_rate,total_sales,
+print(f"If {name} was a Commissioned employee he earns kshs: ", C.commissionpay(commission_rate,total_sales,
                                                                                      commission_allowance))
 
-print("If user was an Hourly employee he earns kshs: ", H.hourlypay(hourly,hours,hourly_allowance))
+print(f"If {name} was an Hourly employee he earns kshs: ", H.hourlypay(hourly,hours,hourly_allowance))
  
