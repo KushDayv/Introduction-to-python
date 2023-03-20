@@ -1,3 +1,4 @@
+#Illustration of Hierachical inheritance
 """A program that will calculate the payment of an employee if he or she happens to be either a:-
 salary employee,
 hourly employee, or 
