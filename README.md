@@ -56,3 +56,7 @@ The statements used are
 
   **The object name is normally any name the user decides to use then assign it to the class name followed by the attributes/ the variables that one initialized at the start of the program.
   
+
+6.Inheritance 
+
+  **The folder inheritance contains programs that are used to implement single inheritance, multiple inheritance  and hierachical inheritance(in the file payment.py). 
