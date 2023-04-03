@@ -17,7 +17,7 @@ def python_files(file_name , contents):
     f = open(file_name + ".txt", "r")
     print(f.read())  
 
-print("This is the infromation in the file")    
+print("This is the infromation in the file: ")    
 
 python_files(file_name, contents)    
 
