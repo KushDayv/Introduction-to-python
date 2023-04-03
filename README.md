@@ -60,3 +60,8 @@ The statements used are
 6.Inheritance 
 
   **The folder inheritance contains programs that are used to implement single inheritance, multiple inheritance  and hierachical inheritance(in the file payment.py). 
+
+
+7. Added a program in the python operators that will allow a user to enter the name and the price of the product and then the values will be stored in a dictionary
+
+8. Added a program in the folder files that will open the name of the file with a .txt extension, read the content in the file and then return the total number of words present. the .split() function will remove the white spaces that separate the words.
