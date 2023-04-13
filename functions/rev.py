@@ -1,15 +1,17 @@
-# words = ['apple', 'banana', 'orange', 'grape']
 
-# doubled_words = []
+#A program that will double the items in the list as it prints them
+words = ['apple', 'banana', 'orange', 'grape']
 
-# for word in words:
-#     doubled_words.append(word)
-#     doubled_words.append(word)
+doubled_words = []
 
-# print(doubled_words)
+for word in words:
+    doubled_words.append(word)
+    doubled_words.append(word)
+
+print(doubled_words)
 
 
-
+# A program to check for the discount of a user once he or she has entered the number of items purchased
 quantity = int(input("Enter a quantity: "))  
 
 total = quantity * 100
